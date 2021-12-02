@@ -1,0 +1,84 @@
+h1 a:link {
+    color: rgb(3, 70, 3);
+}
+h1 a:visited {
+    color: rgb(3, 70, 3);
+}
+h1 a:hover {
+    color: rgb(3, 70, 3);
+}
+.naira1 {
+    margin: 6px;
+    border-style: groove;
+    border-radius: 12px;
+    margin: 0.5cm 3cm;
+    background-color: #e8ece0;
+    font-family: Open Sans, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+}
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkblue;
+}
+a:hover {
+    text-decoration: underline;
+}
+.naira2 {
+    border-style: groove;
+    border-radius: 12px;
+    margin: 0.5cm 3cm;
+    background: #e8ece0; 
+    font-family: Open Sans, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+}
+#mybox {
+    border-radius: 14px;
+    width: 500px;
+}
+#button {
+    border-radius: 14px;
+}
+img {
+    border-radius: 10px;
+    margin: 10px;
+}
+.naira3 {
+    margin: 6px 115px;
+    border-style: groove;
+    border-radius: 12px;
+   /* margin: 0.5cm 3cm;*/
+    background-color: #e8ece0;
+    
+}
+.naira4 {
+    margin: 6px;
+    border-style: groove;
+    border-radius: 12px;
+    margin: 1cm 3cm;
+}
+.naira5 {
+    margin: 6px;
+    border-style: groove;
+    border-radius: 12px;
+    margin: 0.5cm 3cm;
+}
+.c1 {
+    background: #c8ccc0;
+}
+.c2 {
+    background: #e8ece0;
+}
+body {
+    background-image: url("8.png");
+}
+/*
+.tab {
+    border-style: solid;
+    border-radius: 12px;
+    text-align: center;
+}**/
+/*#identity{
+    border: solid;
+    align-items: center;
+}*/
